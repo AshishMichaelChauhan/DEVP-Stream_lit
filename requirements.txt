@@ -3,4 +3,3 @@ streamlit
 matplotlib
 seaborn
 plotly
-plotly.px
